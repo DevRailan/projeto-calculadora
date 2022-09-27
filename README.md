@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </div>
 
-<p align="left">A ideia foi de fazer uma calculadora de basica,
+<p align="left">A ideia foi de fazer uma calculadora basica,
  que utilizava apenas HTML, CSS e JavaScrpt na composição,
  então baseado em alguns projetos na internet eu fiz esse projeto.</p>
