@@ -1,6 +1,6 @@
 <h1 align="left">Calculadora utilizando HTML, CSS e JavaScript</h1>
    
-<h3 align="left">Clique <a href="https://devrailan.github.io/projeto-cauculadora/">aqui</a></h3>   
+<h3 align="left">Clique <a href="https://devrailan.github.io/projeto-calculadora/">aqui</a></h3>   
 <img align="center" src="Captura de tela 2022-09-27 114332.png">
 <div inline:block>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
